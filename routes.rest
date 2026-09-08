@@ -1,0 +1,5 @@
+### GET all contact records
+GET http://localhost:8080/contacts
+
+### GET contact by ID (add any contactid from the collection of MongoDB)
+GET http://localhost:8080/contacts/6a9f683f09b49049f8d4ac40
