@@ -1,5 +1,8 @@
-### GET all contact records
-GET http://localhost:8080/contacts
+### GET string Hello World test
+GET http://localhost:3000
+
+### GET all contact records from local database
+GET http://localhost:3000/contacts
 
 ### GET contact by ID (add any contactid from the collection of MongoDB)
-GET http://localhost:8080/contacts/6a9f683f09b49049f8d4ac40
+GET http://localhost:3000/contacts/6a9f693009b49049f8d4ac43
