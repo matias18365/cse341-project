@@ -5,4 +5,10 @@ GET http://localhost:3000
 GET http://localhost:3000/contacts
 
 ### GET contact by ID (add any contactid from the collection of MongoDB)
-GET http://localhost:3000/contacts/6a9f693009b49049f8d4ac43
+GET http://localhost:3000/contacts/6a9f683f09b49049f8d4ac40
+
+### GET all contacts records from Render
+GET https://cse341-project-02bn.onrender.com/contacts
+
+### GET a contact record by ID from Render
+GET https://cse341-project-02bn.onrender.com/contacts/6a9f693009b49049f8d4ac42
